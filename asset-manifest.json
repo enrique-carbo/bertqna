@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bertqna/static/css/main.a617e044.chunk.css",
+    "main.js": "/bertqna/static/js/main.6a70e96b.chunk.js",
+    "main.js.map": "/bertqna/static/js/main.6a70e96b.chunk.js.map",
+    "runtime-main.js": "/bertqna/static/js/runtime-main.6b39d7c3.js",
+    "runtime-main.js.map": "/bertqna/static/js/runtime-main.6b39d7c3.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/bertqna/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.df0294d6.chunk.js": "/bertqna/static/js/2.df0294d6.chunk.js",
+    "static/js/2.df0294d6.chunk.js.map": "/bertqna/static/js/2.df0294d6.chunk.js.map",
+    "static/js/3.523a9e7a.chunk.js": "/bertqna/static/js/3.523a9e7a.chunk.js",
+    "static/js/3.523a9e7a.chunk.js.map": "/bertqna/static/js/3.523a9e7a.chunk.js.map",
+    "index.html": "/bertqna/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/bertqna/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/bertqna/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.df0294d6.chunk.js.LICENSE.txt": "/bertqna/static/js/2.df0294d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b39d7c3.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.df0294d6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6a70e96b.chunk.js"
+  ]
+}
